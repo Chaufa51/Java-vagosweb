@@ -1,0 +1,46 @@
+.login{
+    color: #000;
+    padding-left: 10%;
+    margin-top: 12px;
+    display: flex;
+    align-content: center;
+    
+}
+
+.login i{
+    padding-right: 20px;
+    font-size: 30px;
+    margin: auto;
+}
+
+
+
+
+.disponibleUsuario{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nav-item a:hover{
+    color: rgb(174, 0, 255);
+    font-weight: bold;
+    border-radius: 20px;
+    
+}
+
+.login i:hover{
+    color: rgb(132, 232, 81);
+    cursor: pointer;
+
+}
+
+/*Icono de usuario*/
+.usuarioLogin{
+    margin: auto;
+    justify-content: center;
+}
+.usuarioLogin h6{
+    font-size: 10px;
+}

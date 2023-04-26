@@ -1,0 +1,59 @@
+
+/*ESTILOS CSS DEL MENU DE ADMIN*/
+.usuariosManager{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+.botonesUsuarioManager{
+    margin: 20px auto;
+    align-items: center;
+}
+
+
+
+
+/*ESTILOS CSS DEL MENU DE ADMIN*/
+.mejorTrabajador{
+    margin: auto;
+}
+
+.mejorTrabajador img{
+    width: 30%;
+    margin: 20px;
+}
+
+
+
+.adminManager{
+    width: 80%;
+    margin: auto;
+}
+
+.botonesAdminManager{
+    margin: 20px auto;
+    align-items: center;
+}
+
+
+
+/*ESTILOS CSS DEL PERFIL DEL ADMINISTRADOR*/
+
+.perfilAdmin{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    background-color: red
+}
+
+.perfilAdmin img{
+    width: 50%;
+    background-color: blue;
+}
+
+.row1{
+    display: flex;
+}
+

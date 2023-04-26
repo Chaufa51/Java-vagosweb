@@ -1,0 +1,32 @@
+.formularioNuevoJuego{
+    width: 60%;
+    margin: auto;
+}
+
+.formularioNuevoJuego h3{
+    margin: 20px auto;
+}
+/*
+.formularioNuevoJuego .subirJuego{
+    margin: auto;
+    align-items: center;
+    width: 20%;
+    background: rgb(86, 255, 30);
+    text-align: center;
+    border-radius: 20px;
+    align-content: center;
+    color: #fff;
+}
+*/
+.subirJuego{
+    width: 20%;
+    background: #4fea1b;
+    border: none;
+    padding: 8px;
+    color: white;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+}

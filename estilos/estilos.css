@@ -1,0 +1,103 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: #C082FF;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;    /*Para centar en vertical*/
+    padding: 10px;
+
+}
+
+/*ESTILOS DE LA IMAGEN*/
+.logo img{
+    height: 70px;
+    margin-left: 20px;
+}
+
+
+/*ESTILOS DEL BUSCADOR*/
+input{
+    justify-content: space-around;
+	box-sizing: border-box;
+	padding: 5px 20px;
+	color: #000;
+	border-radius: 50px;
+	font-size: 30px;
+	border: 1px solid #000000;
+}
+
+.buscador i{
+    font-size: 30px;
+	border-radius: 50%;
+	text-align: center;
+	cursor: pointer;
+}
+
+/*SI INSERTAMOS LA LUPA */
+
+/*
+.lupa {
+
+	background: #D50000;
+	border-radius: 50%;
+	text-align: center;
+	cursor: pointer;
+}
+
+.lupa i {
+	font-size: 25px;        /*Define el tamaño en cuantos pixeles
+	color: white;
+}
+*/
+
+
+
+/*ESTILOS DE LOS ICONOS*/
+.login i{
+    padding: 30px;
+    font-size: 30px;
+}
+
+.login i:hover{
+    color: #fff;
+    font-size: 31px;
+    transition: all .4s ease;
+}
+
+
+
+
+
+/*MENU*/
+
+
+.menu ul {
+    width : 15%;
+    background : #7F00FF;
+    list-style: none;
+    margin: 30px -50px;
+}
+
+.menu ul li {
+    border-bottom: 1px solid;
+
+}
+
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    display: block;
+}
+
+.menu ul li a:hover {
+    background : #C082FF;
+    
+}

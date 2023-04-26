@@ -1,0 +1,40 @@
+.filtros{
+    width: 70%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+form select{
+    border-radius: 10px;
+    font-size: 19px;
+    list-style: none;
+    margin: 0 auto;
+    padding-right: 40px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.container__detail {
+    display: flex;
+    padding: 1rem;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+.img__game {
+    width: 200px !important;
+    height: 200px;
+}
+
+.opacity:hover {
+    opacity: 0;
+    transition: all .3s;
+}
+
+.botonOfertas {
+    color: red;
+}

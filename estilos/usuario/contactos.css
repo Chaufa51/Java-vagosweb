@@ -1,0 +1,69 @@
+
+
+
+.fotoDescripcion{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+/*FORMULARIO*/
+
+.formulario{
+    width: 400px;
+    background: #e9e9e9;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 9px;
+    color: white;
+
+}
+
+.controles{
+    width: 100%;
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-size: 18px;
+}
+
+.formulario .submit{
+    width: 100%;
+    background: #346ce5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.formulario .olvidaste{
+    text-decoration: none;
+    text-align: center;
+}
+
+/*Boton de inicio de sesion*/
+.btnSesion{
+    width: 100%;
+    background: #4fea1b;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+}
