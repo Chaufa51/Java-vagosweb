@@ -25,8 +25,16 @@ form select{
     padding: 1rem;
     margin-top: 1rem;
     gap: 1rem;
+    max-width: 1000px;
+    margin: 1rem auto 0 auto;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
 }
 
 .botonOfertas {
     color: red;
+}
+
+.lista_descripcion_juegos{
+    padding: 0.5rem;
+    list-style: none;
 }
